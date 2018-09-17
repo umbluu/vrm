@@ -2,12 +2,13 @@
  * Css file for Booking app base styling
  */
 body {
+	font-family: 'Montserrat', sans-serif;
     background-color: #FFFFFF;
 }
 
 h2 {
     font-size: 1.2em;
-    color: #4CA5A5;
+    color: #2f3542;
 }
 
 .content {

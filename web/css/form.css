@@ -1,0 +1,35 @@
+/* Styling for forms */
+.booking-form {
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #2f3542;
+    margin-bottom: 2em;
+    padding: 1em;
+    width: 50%;
+}
+
+.booking-form .form-row {
+    margin: 1em 0.5em;
+    clear: both;
+}
+
+.booking-form .form-row label {
+    width: 10em;
+    float: left;
+}
+
+.booking-form .form-row select {
+    margin-right: .25em;
+}
+
+.booking-form .form-row select {
+    display: inline-block;
+    border: 1px solid #ccc;
+    width: 120px;
+    border-radius: 3px;
+    overflow: hidden;
+    background: #fafafa;
+}
+
+.booking-form .form-row select:focus {
+    outline: none;
+}
